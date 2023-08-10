@@ -27,6 +27,11 @@ You can read more about plagiarism and cheating on: https://en.uit.no/sensor/art
 
 ## Lecture plan
 
+**Mandatory readings:**
+* David A. Patterson. John L. Hennessy, Computer Organization and Design - The Hardware/Software Interface, 6 Ed. Chapters 1-6. Appendix B and [C](https://www.elsevier.com/__data/assets/pdf_file/0010/1191376/Appendix-C.PDF).
+* All lecture slides
+* Mandatory assignments
+
 | Lecture   	| Date		    | Subject	  | Lecturer | Readings |
 |-------------|-------------|-----------|----------|----------|
 | L1   | 21.08.23 | Introduction | Lars Ailo | Chapter 1  |
@@ -44,10 +49,6 @@ You can read more about plagiarism and cheating on: https://en.uit.no/sensor/art
 | L10  | ?.?.23 | Parallel Processors        | Vi         | Chapter 6 |
 | L11  | ?.?.23 | GPUs                       | Vi        | Appendix C |
 | Exam | 27.11.23 | School exam  | -         | Everything |            
-
-## Readings
-
-1.
 
 ## Mandatory assignments
 
