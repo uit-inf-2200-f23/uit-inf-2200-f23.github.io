@@ -31,6 +31,17 @@ You can read more about plagiarism and cheating on: https://en.uit.no/sensor/art
 |-------------|-------------|-----------|----------|----------|
 | L1   | 21.08.23 | Introduction | Lars Ailo | Chapter 1  |
 | P1   | 21.08.23 | Precepts 1   | Lars Ailo | -          |
+| L2   | 25.08.22 | Instructions 1 | Lars Ailo | Chapter 2.1-2.10   |
+| L3   | 28.08.22 | Instructions 2 | Lars Ailo  | Chapter 2.11-2.23 |
+
+| P2   | 11.09.23 | Precepts 2   | Lars Ailo | -          |
+| L6   | 15.09.22 | Processor 1  | Lars Ailo | Chapter 4.1-4.4, 4.6-4.7 |
+| L7   | 18.09.22 | Processor 2  | Lars Ailo | Chapter 4.8-4.13, 4.15-4.17 |
+
+| P3   | 16.10.23 | Precepts 3   | Lars Ailo | -          |
+| L9   | 24.10.22 | Memory Hierarchy 1       | Vi         | Chapter 5 |
+| L10  | 25.10.22 | Memory Hierarchy 2       | Vi         | Chapter 5 |
+
 | Exam | 27.11.23 | School exam  | -         | Everything |            
 
 ## Readings
