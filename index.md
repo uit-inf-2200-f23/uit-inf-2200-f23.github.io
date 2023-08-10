@@ -27,9 +27,11 @@ You can read more about plagiarism and cheating on: https://en.uit.no/sensor/art
 
 ## Lecture plan
 
-| Lecture   	| Date		    | Subject	  | Lecturer |
-|-----------|-----------|-----------|----------|
-| L1  | Date | [Introduction](lectures/01-introduction.pptx) | Lecturer |
+| Lecture   	| Date		    | Subject	  | Lecturer | Readings |
+|-------------|-------------|-----------|----------|----------|
+| L1   | 21.08.23 | Introduction | Lars Ailo | Chapter 1  |
+| P1   | 21.08.23 | Precepts 1   | Lars Ailo | -          |
+| Exam | 27.11.23 | School exam  | -         | Everything |            
 
 ## Readings
 
