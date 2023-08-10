@@ -33,14 +33,14 @@ You can read more about plagiarism and cheating on: https://en.uit.no/sensor/art
 | P1   | 21.08.23 | Precepts 1   | Lars Ailo | -          |
 | L2   | 25.08.23 | Instructions 1 | Lars Ailo | Chapter 2.1-2.10   |
 | L3   | 28.08.23 | Instructions 2 | Lars Ailo  | Chapter 2.11-2.23 |
-| L4   | ?.?.23 | Logic design   | Vi         | Appendix B |
-| L5   | ?.?.23 | Arithmetic for computers & floating point  | Lars Ailo | Chapter 3.1-3.11  |
-| P2   | 11.09.23 | Precepts 2   | Lars Ailo | -          |
-| L6   | 15.09.23 | Processor 1  | Lars Ailo | Chapter 4.1-4.4, 4.6-4.7 |
-| L7   | 18.09.23 | Processor 2  | Lars Ailo | Chapter 4.8-4.13, 4.15-4.17 |
-| P3   | 16.10.23 | Precepts 3   | Lars Ailo | -          |
-| L8   | 24.10.22 | Memory Hierarchy 1       | Vi         | Chapter 5 |
-| L9  | 25.10.22 | Memory Hierarchy 2        | Vi         | Chapter 5 |
+| L4   | 04.09.23 | Logic design   | Vi         | Appendix B |
+| L5   | 11.09.23 | Arithmetic for computers & floating point  | Lars Ailo | Chapter 3.1-3.11  |
+| P2   | 15.09.23 | Precepts 2   | Lars Ailo | -          |
+| L6   | 18.09.23 | Processor 1  | Lars Ailo | Chapter 4.1-4.4, 4.6-4.7 |
+| L7   | 22.09.23 | Processor 2  | Lars Ailo | Chapter 4.8-4.13, 4.15-4.17 |
+| P3   | 13.10.23 | Precepts 3   | Lars Ailo | -          |
+| L8   | 16.10.22 | Memory Hierarchy 1       | Vi         | Chapter 5 |
+| L9   | 20.10.22 | Memory Hierarchy 2       | Vi         | Chapter 5 |
 | L10  | ?.?.23 | Parallel Processors        | Vi         | Chapter 6 |
 | L11  | ?.?.23 | GPUs                       | Vi        | Appendix C |
 | Exam | 27.11.23 | School exam  | -         | Everything |            
@@ -53,9 +53,9 @@ You can read more about plagiarism and cheating on: https://en.uit.no/sensor/art
 
 | Project |	Start      | Design review | Due |
 |---------|------------|---------------|-----|
-| Micobenchmark in assembly | 21.08.23, 13:15 | ? | 09.09.23. 12:00 |
-| MIPS Simulator            | 11.09.23, 12:15 | ? | 14.10.23, 12:00 |
-| Cache simulator           | 16.10.23, 12:15 | ? | 12.11.23, 12:00 |
+| Micobenchmark in assembly | 21.08.23, 13:15 | ? | 15.09.23. 12:00 |
+| MIPS Simulator            | 15.09.23, 12:15 | ? | 13.10.23, 12:00 |
+| Cache simulator           | 13.10.23, 12:15 | ? | 10.11.23, 12:00 |
 
 You will receive a GitHub Classroom link to each assignment in Discord. 
 
