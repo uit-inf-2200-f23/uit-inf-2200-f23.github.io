@@ -37,10 +37,14 @@ You can read more about plagiarism and cheating on: https://en.uit.no/sensor/art
 
 ## Mandatory assignments
 
-| Project |	Start      | Due     | Subject | Lecturer |
-|---------|------------|---------|----------|---------|
-| P1 	    | Date       | Date     | [Assignment](URL) | Lecturer
+| Project |	Start      | Design review | Due |
+|---------|------------|---------------|-----|
+| Micobenchmark in assembly | 21.08.23, 13:15 | ? | ?.09.23. 10:00 |
+| MIPS Simulator            | ?.09.23, 10:15 | ? | ?.10.23, 10:00 |
+| Cache simulator           | ?.10.23, 10:15 | ? | ?.11.23, 10:00 |
+
+You will receive a GitHub Classroom link to each assignment in Discord. 
 
 ## Exercises
 
-1.
+1. TBA
