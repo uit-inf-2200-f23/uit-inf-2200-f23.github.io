@@ -46,8 +46,8 @@ You can read more about plagiarism and cheating on: https://en.uit.no/sensor/art
 | P3   | 13.10.23 | Precepts 3   | Lars Ailo | -          |
 | L8   | 16.10.23 | Memory Hierarchy 1       | Vi         | Chapter 5 |
 | L9   | 20.10.23 | Memory Hierarchy 2       | Vi         | Chapter 5 |
-| L10  | ?.?.23 | Parallel Processors        | Vi         | Chapter 6 |
-| L11  | ?.?.23 | GPUs                       | Vi        | Appendix C |
+| L10  | 27.10.23 | Parallel Processors        | Vi         | Chapter 6 |
+| L11  | 03.11.23 | GPUs                       | Vi        | Appendix C |
 | Exam | 27.11.23 | School exam  | -         | Everything |            
 
 ## Mandatory assignments
